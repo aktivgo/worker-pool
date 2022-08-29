@@ -3,7 +3,7 @@ package app
 import (
 	"log"
 	"time"
-	"worker-pool/internal/worker/impl"
+	"worker-pools/internal/worker/impl"
 )
 
 func Run() {

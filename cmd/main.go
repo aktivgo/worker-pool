@@ -1,6 +1,6 @@
 package main
 
-import "worker-pool/internal/app"
+import "worker-pools/internal/app"
 
 func main() {
 	app.Run()

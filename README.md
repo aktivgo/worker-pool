@@ -1,1 +1,1 @@
-## worker-pool pattern implementation
+## worker-pools pattern implementation
